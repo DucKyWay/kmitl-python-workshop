@@ -1,4 +1,3 @@
-# kmitl-python-workshop
 # KMITL Python&AIot Workshop 
 Python & AIoT ESP32
 
